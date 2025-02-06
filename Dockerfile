@@ -1,5 +1,5 @@
 FROM python:3.9-alpine3.13
-LABEL maintainer="dataengineuity.com"
+LABEL maintainer="https://dataengineuity.com"
 
 ENV PYTHONUNBUFFERED=1
 
